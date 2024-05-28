@@ -6,7 +6,7 @@ async def main():
     db = AioDatabase()
 
     # Creating a localhost connection using SQL
-    await db.connect("config2.yml", "queries.sql")
+    await db.connect("config.yml", "queries.sql")
 
     # Clearing the cars table
     await db.execute("clear_cars_table")
