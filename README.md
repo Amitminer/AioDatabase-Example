@@ -20,7 +20,7 @@ AioDatabase is a simple database abstraction layer for SQLite and MySQL. This re
 First, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/AioDatabase-Example.git
+git clone https://github.com/Amitminer/AioDatabase-Example.git
 cd AioDatabase-Example
 ```
 
