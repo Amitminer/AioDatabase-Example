@@ -11,8 +11,8 @@ AioDatabase is a simple database abstraction layer for SQLite and MySQL. This re
 
 ## Prerequisites
 
-- Python 3.6 or higher
-- AioDatabase library
+- Python 3.8 or higher
+- [AioDatabase library](https://github.com/Amitminer/AioDatabase)
 - SQLite or MySQL database
 
 ## Installation
